@@ -1,5 +1,4 @@
 #  Financial Dataset
-#  Financial Performance & Profitability Dashboard
 
 ##  Overview
 The **Financial Performance & Profitability Dashboard** provides interactive visual insights into sales performance, profitability, manufacturing pricing, and product-level analytics across different countries and time periods. This dashboard helps stakeholders monitor key financial metrics and identify trends that support strategic decision-making.
